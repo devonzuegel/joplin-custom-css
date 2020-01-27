@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!userchrome.css
+!userstyle.css
+!README.md
+!.gitignore
