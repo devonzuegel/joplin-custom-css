@@ -1,0 +1,36 @@
+*, #joplin-container-body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
+    sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+}
+
+// body {
+//     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+//     margin-bottom: 2em !important;
+// }
+// code, pre  {
+//     font-family: "iA Writer Mono V", "Fira Code";
+//     // font-weight: 600;
+//     // font-size: .95em;
+//     line-height: 1.5em;
+//   background: rgba(0, 76, 114, .08) !important;
+//   border-radius: 4px;
+// }
+// .code, .inline-code {
+// border: none;
+// background: rgba(0, 76, 114, .08);
+// border-radius: 4px;
+
+// }
+// img[title="250px"] { width: 250px; }
+// img[title="150px"] { width: 150px; }
+// img[title="450px"] { width: 450px; }
+// mark {
+//     background: #3edbff53 !important;
+//     padding: 1px 3px;
+// }
+// .md-checkbox .checkbox-label-checked { cursor: pointer; }
+// /*********************************
+//  **** Links to internal notes ****
+//  *********************************/
+// a .resource-icon { display: none; }
+// a[href="#"] { color: green; }
